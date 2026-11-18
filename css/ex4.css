@@ -5,6 +5,7 @@ html {
   scroll-behavior: smooth;
 }
 
+/*整頁變數*/
 :root{
     --swiper-theme-color:rgba(87, 117, 144, 1);
 }
